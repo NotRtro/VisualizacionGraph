@@ -1,0 +1,1611 @@
+{
+  "nodes": [
+    {
+      "id": "José Manuel Aguilar Alfaro",
+      "correo": "jaguilar@utec.edu.pe",
+      "group": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    },
+    {
+      "id": "Grace Alexandrino Ocaña",
+      "correo": "",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Helard Alvarez Sanchez",
+      "correo": "halvarez@utec.edu.pe",
+      "group": "Departamento de Ingeniería Mecánica y de la Energía"
+    },
+    {
+      "id": "Claudia Antonini Bova",
+      "correo": "cantonini@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "Sergio Aranda Egusquiza",
+      "correo": "saranda@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "Patricia Araujo Pantoja",
+      "correo": "paraujo@utec.edu.pe",
+      "group": "Grupo de investigación en energía y minas"
+    },
+    {
+      "id": "Andrés Julián Arias Moreno",
+      "correo": "aariasm@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Luis Bedriñana Mera",
+      "correo": "lbedrinana@utec.edu.pe",
+      "group": "Departamento de Ingeniería Civil y Ambiental"
+    },
+    {
+      "id": "Omar Bejarano Grández",
+      "correo": "obejarano@utec.edu.pe",
+      "group": "Grupo de investigación en energía y minas"
+    },
+    {
+      "id": "Jesús Edwin Bellido Angulo",
+      "correo": "jbellido@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Carlos Alberto Benedetty Torres",
+      "correo": "cbenedetty@utec.edu.pe",
+      "group": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    },
+    {
+      "id": "Juan Bueno Villanueva",
+      "correo": "jbueno@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "Jhedmar Jhonatan Callupe Luna",
+      "correo": "jcallupe@utec.edu.pe",
+      "group": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    },
+    {
+      "id": "Ruth Canahuire Cabello",
+      "correo": "rcanahuire@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "Paul Cardenas Lizana",
+      "correo": "pcardenas@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Samuel Charca Mamani",
+      "correo": "scharca@utec.edu.pe",
+      "group": "Departamento de Ingeniería Mecánica y de la Energía"
+    },
+    {
+      "id": "Xyoby Chavez Pacheco",
+      "correo": "xchavez@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Fabien Cornillier",
+      "correo": "fcornillier@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "Antuané De La Flor Basterrechea",
+      "correo": "adelaflor@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Jose De La Puente Maldonado",
+      "correo": "jdelapuente@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "José Andrés De Leo Martínez",
+      "correo": "adeleo@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Jose Gerardo Deustua Rossel",
+      "correo": "jdeustua@utec.edu.pe",
+      "group": "UTEC Ventures"
+    },
+    {
+      "id": "Manuel Arturo Deza Figueroa",
+      "correo": "mdeza@utec.edu.pe",
+      "group": "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    },
+    {
+      "id": "Alberto Donayre Torres",
+      "correo": "adonayre@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Jose Fiestas Iquira",
+      "correo": "jfiestas@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Elena Flores Barreda",
+      "correo": "cfloresb@utec.edu.pe",
+      "group": "Centro de Investigación en Bioingeniería"
+    },
+    {
+      "id": "Luis Ernesto Flores Luyo",
+      "correo": "lfloresl@utec.edu.pe",
+      "group": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    },
+    {
+      "id": "Christian Flores Vega",
+      "correo": "cflores@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "José Tomás Gálvez Ghersi",
+      "correo": "jgalvezg@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Oscar Gamonal Pajares",
+      "correo": "ogamonal@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "Germain García Zanabria",
+      "correo": "",
+      "group": "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    },
+    {
+      "id": "Jorge Gonzalez Reaño",
+      "correo": "jgonzalez@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Leo Guerrero",
+      "correo": "",
+      "group": "Centro de Investigación y Tecnología del Agua"
+    },
+    {
+      "id": "Juan Gabriel Gutierrez Alva",
+      "correo": "jgutierreza@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Julio Gutierrez Alva",
+      "correo": "jgutierreza@utec.edu.pe",
+      "group": "Departamento de Ciencia de Datos y Sistemas de Información"
+    },
+    {
+      "id": "Yuri Herrera Burstein",
+      "correo": "yherrera@utec.edu.pe",
+      "group": "Departamento de Negocios Digitales"
+    },
+    {
+      "id": "Oscar Hidalgo Wuest",
+      "correo": "ohidalgo@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Daniel Vicente Horna Muñoz",
+      "correo": "",
+      "group": "Departamento de Ingeniería Civil y Ambiental"
+    },
+    {
+      "id": "Rocío Hoyos Diaz",
+      "correo": "rhoyos@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Deyby Huamanchahua Canchanya",
+      "correo": "dhuamanchahua@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "Dante Inga Narvaez",
+      "correo": "dinga@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "Elvis Jara Alegria",
+      "correo": "ejara@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "Enrique Juarez Aquino",
+      "correo": "ejuarez@utec.edu.pe",
+      "group": "Departamento de Ingeniería Civil y Ambiental"
+    },
+    {
+      "id": "Wangdo Kim",
+      "correo": "mwdkim@utec.edu.pe",
+      "group": "Centro de Investigación en Bioingeniería"
+    },
+    {
+      "id": "Jose Larco Martinelli",
+      "correo": "jlarco@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "Cristian Lopez Del Alamo",
+      "correo": "clopezd@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Milagros Lunga Calderón",
+      "correo": "mlunga@utec.edu.pe",
+      "group": "Departamento de Negocios Digitales"
+    },
+    {
+      "id": "José Luis Mantari Laureano",
+      "correo": "jmantari@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Giancarlo Marcone Flores",
+      "correo": "gmarcone@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Diego Alejandro Milanés Carreño",
+      "correo": "dmilanes@utec.edu.pe",
+      "group": "Grupo de Investigación en Física Fundamental (GIFF)"
+    },
+    {
+      "id": "Rensso Victor Hugo Mora Colque",
+      "correo": "rmora@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Monica Cristina Moreno Brush",
+      "correo": "",
+      "group": "Centro de Investigación y Tecnología del Agua"
+    },
+    {
+      "id": "Angel Napa Bernuy",
+      "correo": "anapa@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Julien Noel",
+      "correo": "jnoel@utec.edu.pe",
+      "group": "Departamento de Ingeniería Mecánica y de la Energía"
+    },
+    {
+      "id": "Moises Nuñez Ochoa",
+      "correo": "mnunez@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "Maria Belén Ortiz García",
+      "correo": "mortizg@utec.edu.pe",
+      "group": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+    },
+    {
+      "id": "Hermes Pantoja Carhuavilca",
+      "correo": "hpantoja@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Carolina Parada Quinaya",
+      "correo": "dparada@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Alexander Peña Nevado",
+      "correo": "apena@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Sergio Quispe Rodriguez",
+      "correo": "squispe@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Elmer Ramirez Quiroz",
+      "correo": "eramirez@utec.edu.pe",
+      "group": "Grupo de investigación en energía y minas"
+    },
+    {
+      "id": "Oscar Ramos Ponce",
+      "correo": "oramos@utec.edu.pe",
+      "group": "Departamento de Ingeniería Electrónica y Mecatrónica"
+    },
+    {
+      "id": "José Ramos Saravia",
+      "correo": "jramos@utec.edu.pe",
+      "group": "Departamento de Ingeniería Mecánica y de la Energía"
+    },
+    {
+      "id": "Alejandra Ratti Parandelli",
+      "correo": "aratti@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Pedro Rau Lavado",
+      "correo": "prau@utec.edu.pe",
+      "group": "Departamento de Ingeniería Civil y Ambiental"
+    },
+    {
+      "id": "Jose Renom Andara",
+      "correo": "jrenom@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Alejandro Rios Cuadros",
+      "correo": "arios@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Juan Carlos Rodríguez Reyes",
+      "correo": "jcrodriguez@utec.edu.pe",
+      "group": "Grupo de investigación en energía y minas"
+    },
+    {
+      "id": "Ursula Rodriguez Zuñiga",
+      "correo": "urodriguez@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Harry Gustavo Saavedra Espinoza",
+      "correo": "hsaavedra@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Heider Sánchez Enriquez",
+      "correo": "hsanchez@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Nedher Sanchez Ramirez",
+      "correo": "nsanchezr@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Monica C. Santa-Maria",
+      "correo": "msantamaria@utec.edu.pe",
+      "group": "Departamento de Ingeniería Civil y Ambiental"
+    },
+    {
+      "id": "José Santiváñez Guarniz",
+      "correo": "jsantivanez@utec.edu.pe",
+      "group": "Facultad de Ingeniería"
+    },
+    {
+      "id": "Yamilet Rosario Serrano Llerena",
+      "correo": "yserrano@utec.edu.pe",
+      "group": "Departamento de Ciencia de Datos y Sistemas de Información"
+    },
+    {
+      "id": "Igor Siveroni Salinas",
+      "correo": "isiveroni@utec.edu.pe",
+      "group": "Facultad de Computación"
+    },
+    {
+      "id": "Aurea Rossy Soriano Vargas",
+      "correo": "asoriano@utec.edu.pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "Enrique Stiglich Labarthe",
+      "correo": "estiglich@utec.edu.pe",
+      "group": "Facultad de Negocios"
+    },
+    {
+      "id": "Matteo Stiglich Labarthe",
+      "correo": "mstiglich@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Francisco Tarazona Vásquez",
+      "correo": "ftarazona@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Jimmy Tarrillo Olano",
+      "correo": "jtarrillo@utec.edu.pe",
+      "group": "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)"
+    },
+    {
+      "id": "Jorge Tipe Villanueva",
+      "correo": "jtipe@utec.edu..pe",
+      "group": "Departamento de Ciencia de la Computación"
+    },
+    {
+      "id": "David Wilfredo Torres Escobar",
+      "correo": "dtorres@utec.edu.pe",
+      "group": "Universidad de Ingeniería y Tecnología"
+    },
+    {
+      "id": "Julio Ernesto Valdivia Silva",
+      "correo": "jvaldivias@utec.edu.pe",
+      "group": "Departamento de Bioingeniería e Ingeniería Química"
+    },
+    {
+      "id": "Elba Rosaura Vazques Arrieta",
+      "correo": "rvasqueza@utec.edu.pe",
+      "group": "Departamento de Ingeniería Civil y Ambiental"
+    },
+    {
+      "id": "Emir Augusto Vela Saavedra",
+      "correo": "evela@utec.edu.pe",
+      "group": "Escuela de Posgrado"
+    },
+    {
+      "id": "Rafael Vera Pomalaza",
+      "correo": "rvera@utec.edu.pe",
+      "group": "Grupo de investigación en energía y minas"
+    },
+    {
+      "id": "Eunice Villicaña Ortiz",
+      "correo": "evillicana@utec.edu.pe",
+      "group": "Departamento de Ingeniería Mecánica y de la Energía"
+    },
+    {
+      "id": "Akira Armando Wong Sato",
+      "correo": "awong@utec.edu.pe",
+      "group": "Instituto de Investigación para la Sostenibilidad de la Amazonía"
+    },
+    {
+      "id": "Romina Perla Yalonetzky Mankevich",
+      "correo": "ryalonetzky@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    },
+    {
+      "id": "Katia Zegarra Sierra",
+      "correo": "kzegarras@utec.edu.pe",
+      "group": "Departamento de Ciencias"
+    },
+    {
+      "id": "Carlos Zorrilla Aranguren",
+      "correo": "czorrilla@utec.edu.pe",
+      "group": "Departamento de Humanidades, Artes y Ciencias Sociales"
+    }
+  ],
+  "links": [
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Juan Bueno Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Jose De La Puente Maldonado",
+      "target": "Oscar Gamonal Pajares",
+      "value": 1
+    },
+    {
+      "source": "Giancarlo Marcone Flores",
+      "target": "José Andrés De Leo Martínez",
+      "value": 1
+    },
+    {
+      "source": "Jose De La Puente Maldonado",
+      "target": "Juan Bueno Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Rafael Vera Pomalaza",
+      "value": 1
+    },
+    {
+      "source": "Patricia Araujo Pantoja",
+      "target": "Rafael Vera Pomalaza",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Carolina Parada Quinaya",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Francisco Tarazona Vásquez",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "Omar Bejarano Grández",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Juan Carlos Rodríguez Reyes",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Emir Augusto Vela Saavedra",
+      "value": 1
+    },
+    {
+      "source": "Elvis Jara Alegria",
+      "target": "Moises Nuñez Ochoa",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Jorge Tipe Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Jose De La Puente Maldonado",
+      "value": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Enrique Juarez Aquino",
+      "value": 1
+    },
+    {
+      "source": "Carlos Zorrilla Aranguren",
+      "target": "Giancarlo Marcone Flores",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Heider Sánchez Enriquez",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Dante Inga Narvaez",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Cristian Lopez Del Alamo",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Moises Nuñez Ochoa",
+      "value": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Pedro Rau Lavado",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Oscar Hidalgo Wuest",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Carolina Parada Quinaya",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Oscar Gamonal Pajares",
+      "value": 1
+    },
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Maria Belén Ortiz García",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Enrique Juarez Aquino",
+      "target": "Luis Bedriñana Mera",
+      "value": 1
+    },
+    {
+      "source": "Jorge Tipe Villanueva",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Samuel Charca Mamani",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Julio Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Jesús Edwin Bellido Angulo",
+      "value": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Helard Alvarez Sanchez",
+      "value": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Jose Larco Martinelli",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Igor Siveroni Salinas",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Jorge Tipe Villanueva",
+      "value": 1
+    },
+    {
+      "source": "José Ramos Saravia",
+      "target": "Samuel Charca Mamani",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Jose De La Puente Maldonado",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Heider Sánchez Enriquez",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Deyby Huamanchahua Canchanya",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Pedro Rau Lavado",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Cristian Lopez Del Alamo",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Dante Inga Narvaez",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Grace Alexandrino Ocaña",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Igor Siveroni Salinas",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Carlos Zorrilla Aranguren",
+      "target": "Oscar Hidalgo Wuest",
+      "value": 1
+    },
+    {
+      "source": "Giancarlo Marcone Flores",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Oscar Gamonal Pajares",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Alejandra Ratti Parandelli",
+      "value": 1
+    },
+    {
+      "source": "Jorge Gonzalez Reaño",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Igor Siveroni Salinas",
+      "value": 1
+    },
+    {
+      "source": "Juan Bueno Villanueva",
+      "target": "Maria Belén Ortiz García",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Emir Augusto Vela Saavedra",
+      "value": 1
+    },
+    {
+      "source": "Jose Fiestas Iquira",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Elba Rosaura Vazques Arrieta",
+      "target": "Luis Bedriñana Mera",
+      "value": 1
+    },
+    {
+      "source": "Heider Sánchez Enriquez",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Heider Sánchez Enriquez",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Juan Gabriel Gutierrez Alva",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Omar Bejarano Grández",
+      "target": "Patricia Araujo Pantoja",
+      "value": 1
+    },
+    {
+      "source": "Moises Nuñez Ochoa",
+      "target": "Oscar Ramos Ponce",
+      "value": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "José Ramos Saravia",
+      "target": "Omar Bejarano Grández",
+      "value": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Julien Noel",
+      "value": 1
+    },
+    {
+      "source": "Enrique Juarez Aquino",
+      "target": "Monica C. Santa-Maria",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Rafael Vera Pomalaza",
+      "target": "Wangdo Kim",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Fabien Cornillier",
+      "value": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Matteo Stiglich Labarthe",
+      "value": 1
+    },
+    {
+      "source": "Carlos Zorrilla Aranguren",
+      "target": "Grace Alexandrino Ocaña",
+      "value": 1
+    },
+    {
+      "source": "Francisco Tarazona Vásquez",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Moises Nuñez Ochoa",
+      "target": "Ruth Canahuire Cabello",
+      "value": 1
+    },
+    {
+      "source": "Harry Gustavo Saavedra Espinoza",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "José Andrés De Leo Martínez",
+      "target": "Oscar Hidalgo Wuest",
+      "value": 1
+    },
+    {
+      "source": "Grace Alexandrino Ocaña",
+      "target": "Oscar Hidalgo Wuest",
+      "value": 1
+    },
+    {
+      "source": "Harry Gustavo Saavedra Espinoza",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Dante Inga Narvaez",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Oscar Ramos Ponce",
+      "value": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Juan Bueno Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Jorge Tipe Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Jose De La Puente Maldonado",
+      "target": "Maria Belén Ortiz García",
+      "value": 1
+    },
+    {
+      "source": "Matteo Stiglich Labarthe",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Elvis Jara Alegria",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Ruth Canahuire Cabello",
+      "value": 1
+    },
+    {
+      "source": "Francisco Tarazona Vásquez",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Heider Sánchez Enriquez",
+      "target": "Jorge Tipe Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Omar Bejarano Grández",
+      "value": 1
+    },
+    {
+      "source": "Paul Cardenas Lizana",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Giancarlo Marcone Flores",
+      "target": "Oscar Hidalgo Wuest",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Emir Augusto Vela Saavedra",
+      "value": 1
+    },
+    {
+      "source": "Carlos Zorrilla Aranguren",
+      "target": "Matteo Stiglich Labarthe",
+      "value": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "Julien Noel",
+      "value": 1
+    },
+    {
+      "source": "Elba Rosaura Vazques Arrieta",
+      "target": "Monica C. Santa-Maria",
+      "value": 1
+    },
+    {
+      "source": "Elvis Jara Alegria",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Jose Fiestas Iquira",
+      "target": "José Tomás Gálvez Ghersi",
+      "value": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Omar Bejarano Grández",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Luis Bedriñana Mera",
+      "target": "Monica C. Santa-Maria",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Ruth Canahuire Cabello",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Deyby Huamanchahua Canchanya",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Omar Bejarano Grández",
+      "target": "Wangdo Kim",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Jesús Edwin Bellido Angulo",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Juan Bueno Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Maria Belén Ortiz García",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Moises Nuñez Ochoa",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Fabien Cornillier",
+      "value": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Patricia Araujo Pantoja",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Francisco Tarazona Vásquez",
+      "value": 1
+    },
+    {
+      "source": "José Tomás Gálvez Ghersi",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "Samuel Charca Mamani",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Emir Augusto Vela Saavedra",
+      "value": 1
+    },
+    {
+      "source": "Jose De La Puente Maldonado",
+      "target": "Jose Larco Martinelli",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Maria Belén Ortiz García",
+      "target": "Oscar Gamonal Pajares",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Patricia Araujo Pantoja",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Aurea Rossy Soriano Vargas",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Jorge Tipe Villanueva",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Jorge Tipe Villanueva",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "José Andrés De Leo Martínez",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Elba Rosaura Vazques Arrieta",
+      "target": "Enrique Juarez Aquino",
+      "value": 1
+    },
+    {
+      "source": "Enrique Juarez Aquino",
+      "target": "Pedro Rau Lavado",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Moises Nuñez Ochoa",
+      "value": 1
+    },
+    {
+      "source": "Omar Bejarano Grández",
+      "target": "Rafael Vera Pomalaza",
+      "value": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Carolina Parada Quinaya",
+      "value": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Luis Bedriñana Mera",
+      "value": 1
+    },
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Oscar Gamonal Pajares",
+      "value": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "José Ramos Saravia",
+      "value": 1
+    },
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Julio Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Harry Gustavo Saavedra Espinoza",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Samuel Charca Mamani",
+      "value": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Francisco Tarazona Vásquez",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Oscar Ramos Ponce",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Andrés Julián Arias Moreno",
+      "value": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Jose Larco Martinelli",
+      "value": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Jorge Gonzalez Reaño",
+      "target": "Jose Fiestas Iquira",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Jorge Gonzalez Reaño",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "Carlos Zorrilla Aranguren",
+      "target": "José Andrés De Leo Martínez",
+      "value": 1
+    },
+    {
+      "source": "Heider Sánchez Enriquez",
+      "target": "Rensso Victor Hugo Mora Colque",
+      "value": 1
+    },
+    {
+      "source": "Carlos Zorrilla Aranguren",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Andrés Julián Arias Moreno",
+      "target": "Dante Inga Narvaez",
+      "value": 1
+    },
+    {
+      "source": "Heider Sánchez Enriquez",
+      "target": "Jesús Edwin Bellido Angulo",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Deyby Huamanchahua Canchanya",
+      "value": 1
+    },
+    {
+      "source": "Heider Sánchez Enriquez",
+      "target": "Jorge Gonzalez Reaño",
+      "value": 1
+    },
+    {
+      "source": "Jose Fiestas Iquira",
+      "target": "Juan Gabriel Gutierrez Alva",
+      "value": 1
+    },
+    {
+      "source": "José Ramos Saravia",
+      "target": "Julien Noel",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Elba Rosaura Vazques Arrieta",
+      "target": "Pedro Rau Lavado",
+      "value": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "José Ramos Saravia",
+      "value": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Giancarlo Marcone Flores",
+      "target": "Grace Alexandrino Ocaña",
+      "value": 1
+    },
+    {
+      "source": "Francisco Tarazona Vásquez",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Luis Bedriñana Mera",
+      "target": "Pedro Rau Lavado",
+      "value": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Elba Rosaura Vazques Arrieta",
+      "value": 1
+    },
+    {
+      "source": "Francisco Tarazona Vásquez",
+      "target": "Julio Ernesto Valdivia Silva",
+      "value": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Wangdo Kim",
+      "value": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Ruth Canahuire Cabello",
+      "value": 1
+    },
+    {
+      "source": "Juan Bueno Villanueva",
+      "target": "Oscar Gamonal Pajares",
+      "value": 1
+    },
+    {
+      "source": "Patricia Araujo Pantoja",
+      "target": "Wangdo Kim",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Ursula Rodriguez Zuñiga",
+      "value": 1
+    },
+    {
+      "source": "Oscar Hidalgo Wuest",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Andrés Julián Arias Moreno",
+      "value": 1
+    },
+    {
+      "source": "Elvis Jara Alegria",
+      "target": "Oscar Ramos Ponce",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Jorge Tipe Villanueva",
+      "value": 1
+    },
+    {
+      "source": "José Andrés De Leo Martínez",
+      "target": "Matteo Stiglich Labarthe",
+      "value": 1
+    },
+    {
+      "source": "Grace Alexandrino Ocaña",
+      "target": "Matteo Stiglich Labarthe",
+      "value": 1
+    },
+    {
+      "source": "Matteo Stiglich Labarthe",
+      "target": "Oscar Hidalgo Wuest",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Francisco Tarazona Vásquez",
+      "value": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Elvis Jara Alegria",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Deyby Huamanchahua Canchanya",
+      "value": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Monica C. Santa-Maria",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Harry Gustavo Saavedra Espinoza",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Heider Sánchez Enriquez",
+      "value": 1
+    },
+    {
+      "source": "José Andrés De Leo Martínez",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Grace Alexandrino Ocaña",
+      "target": "José Andrés De Leo Martínez",
+      "value": 1
+    },
+    {
+      "source": "Grace Alexandrino Ocaña",
+      "target": "Romina Perla Yalonetzky Mankevich",
+      "value": 1
+    },
+    {
+      "source": "Angel Napa Bernuy",
+      "target": "Aurea Rossy Soriano Vargas",
+      "value": 1
+    },
+    {
+      "source": "Elvis Jara Alegria",
+      "target": "Ruth Canahuire Cabello",
+      "value": 1
+    },
+    {
+      "source": "Jorge Gonzalez Reaño",
+      "target": "Jorge Tipe Villanueva",
+      "value": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Deyby Huamanchahua Canchanya",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Oscar Ramos Ponce",
+      "value": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Emir Augusto Vela Saavedra",
+      "value": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Rafael Vera Pomalaza",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Giancarlo Marcone Flores",
+      "value": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Carlos Zorrilla Aranguren",
+      "value": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Paul Cardenas Lizana",
+      "value": 1
+    },
+    {
+      "source": "Moises Nuñez Ochoa",
+      "target": "Sergio Aranda Egusquiza",
+      "value": 1
+    },
+    {
+      "source": "Giancarlo Marcone Flores",
+      "target": "Matteo Stiglich Labarthe",
+      "value": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "José Tomás Gálvez Ghersi",
+      "value": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Maria Belén Ortiz García",
+      "value": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Jesús Edwin Bellido Angulo",
+      "value": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Ruth Canahuire Cabello",
+      "value": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Elvis Jara Alegria",
+      "value": 1
+    }
+  ]
+}
